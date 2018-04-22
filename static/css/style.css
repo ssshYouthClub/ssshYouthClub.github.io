@@ -28,7 +28,7 @@ footer{
 }
 
 .banner { 
-	font-family: 'cwTeXHei', serif;
+	font-family: 'cwTeXHei';
 	text-align:center;
 	overflow-x: hidden;
     overflow-y:auto;
