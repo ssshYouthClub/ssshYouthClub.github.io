@@ -37,7 +37,7 @@ footer{
 
 .banner img {
 	/*首頁大圖片樣式*/
-	-webkit-filter:brightness(.4); /*亮度*/
+	-webkit-filter:brightness(.8); /*亮度*/
 }
 
 .mark_sign{
