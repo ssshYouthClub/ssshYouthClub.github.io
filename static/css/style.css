@@ -7,7 +7,7 @@ body{
 }
 
 footer{
-	background-color:rgba(0%,0%,0%,0.3); 
+	background-color: hsl(150,50%,63%); 
 }
 
 .black_a {
@@ -37,7 +37,7 @@ footer{
 
 .banner img {
 	/*首頁大圖片樣式*/
-	-webkit-filter:brightness(.7); /*亮度*/
+	-webkit-filter:brightness(.4); /*亮度*/
 }
 
 .mark_sign{
@@ -55,6 +55,13 @@ footer{
 	padding:20px ; 
 }
 
+.bg_green {
+		background-attachment: scroll
+		background-image: url("https://i.imgur.com/Wi5cRqd.png")
+		background-position: top center
+		background-repeat: repeat-x
+		background-size: contain
+	}
 
 
 
