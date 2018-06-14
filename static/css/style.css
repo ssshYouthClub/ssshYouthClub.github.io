@@ -62,7 +62,26 @@ footer{
 		background-repeat: repeat-x
 		background-size: contain
 	}
+.first-slide{
+	background: url("https://i.imgur.com/VIujtXk.jpg");
+	background-size: cover;
+	display: block;
+	height: 100%;
+}
 
+.second-slide{
+	background: url("https://i.imgur.com/A3476db.jpg");
+	background-size: cover;
+	display: block;
+	height: 100%;
+}
+
+.third-slide{
+	background: url("https://i.imgur.com/li2fgAh.jpg");
+	background-size: cover;
+	display: block;
+	height: 100%;
+}
 
 
 
