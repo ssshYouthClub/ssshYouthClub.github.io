@@ -35,11 +35,6 @@ footer{
 	padding-top: 0px;
 }
 
-.banner img {
-	/*首頁大圖片樣式*/
-	-webkit-filter:brightness(.8); /*亮度*/
-}
-
 .mark_sign{
 	/*標題顏色標示條*/
 	border-bottom-style:solid;
@@ -55,13 +50,7 @@ footer{
 	padding:20px ; 
 }
 
-.bg_green {
-		background-attachment: scroll
-		background-image: url("https://i.imgur.com/Wi5cRqd.png")
-		background-position: top center
-		background-repeat: repeat-x
-		background-size: contain
-	}
+
 .first-slide{
 	background: url("https://i.imgur.com/VIujtXk.jpg");
 	background-size: cover;
@@ -74,6 +63,7 @@ footer{
 	background-size: cover;
 	display: block;
 	height: 100%;
+	-webkit-filter:brightness(.8);
 }
 
 .third-slide{
